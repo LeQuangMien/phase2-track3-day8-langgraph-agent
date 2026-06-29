@@ -2,7 +2,7 @@
 
 ## 1. Team / student
 
-- Name: Lê Quang Miên (Jelly) — 2A202600715
+- Name: Lê Quang Miền — 2A202600715
 - Repo/commit: https://github.com/LeQuangMien/phase2-track3-day8-langgraph-agent
 - Date: 2026-06-29
 
