@@ -33,6 +33,8 @@ checkpoints.db-shm
 htmlcov/
 .coverage
 
+scripts/
+
 # OS
 .DS_Store
 Thumbs.db
